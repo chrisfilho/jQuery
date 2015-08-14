@@ -1,0 +1,32 @@
+body{
+	font-family: arial;thamoma;sans;
+}
+p{
+	display: block;
+	clear: both;
+	margin-top: 70px;
+}
+img {
+    height:100px;
+    width:100px;
+    border-radius:50px;
+    margin-bottom:-50px;
+    
+    
+    display: inline-block;
+}
+#blue {
+    background-color:#6C5AF2;
+}
+
+#yellow {
+    background-color:#EAF25A;
+}
+
+#pinky {
+    background-color:#EF5AF2;
+}
+
+#blackg {
+    background-color:#1C460B;
+}

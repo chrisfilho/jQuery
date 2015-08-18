@@ -1,0 +1,55 @@
+#moto{
+	top: 10px;
+	height: 150px;
+}
+
+
+#carro{
+	top: 40px;
+	height: 100px;
+}
+
+#bicicleta{
+	top: 10px;
+	height: 150px;
+}
+
+img{position: absolute;z-index: 1000}
+
+
+#caminhao{
+	top: 10px;
+	height: 200px;
+}
+
+div.rua{
+	background: url(rua.png) repeat-x center;
+	display: block;
+	width: 1800px;
+  	height: 200px; 
+  	clear: both;
+  	margin-bottom: 20px;
+  	overflow: hidden;
+}
+
+.circle{
+	display: block;
+	border-radius: 10px;
+	height: 20px;
+	width: 20px;
+	background: green;
+	z-index:2000;
+	position: relative; 
+	float: left;
+	margin-right: 10px;	
+	cursor: pointer;
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+      background-color:#90EE90;
+}
+.bola-azul{
+    height: 50px;
+    width: 149px;
+    background-color:#0000FF;
+border-radius: 59px;
+}
+
+.bola-roxa{
+    
+height: 50px;
+    width: 70px;
+    background-color:#A020F0;
+}
+.bola-amarela{
+   
+height: 90px;
+    width: 150px;
+    background-color:#FFFF00;
+}

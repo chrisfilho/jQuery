@@ -1,0 +1,20 @@
+ol {
+    list-style-type: none;
+	position: relative;
+	left: -20px;
+}
+
+ol li {
+	background: #0000FF;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: 3px;
+	padding: 0.4em;
+	font-size: 1em;
+	height: 16px;
+	
+}
+
+ol .ui-selected {
+	background: #00FF00; color: green;
+}

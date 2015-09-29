@@ -1,0 +1,19 @@
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#resi{
+    background-color: #FF0000;
+
+
+}
+
+
+#drag{
+    background-color: #FF0000;
+
+}
+

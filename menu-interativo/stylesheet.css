@@ -1,0 +1,32 @@
+#menu ul{ 
+width: 300px;
+height: auto;
+background-color :#2f4f4f;
+display: block;
+margin: 0;
+position: 0;
+
+}
+#menu li{
+list-style: none;
+display: block;
+width: 100%;
+height: auto;
+border-bottom: 2px solid #fff;
+color: #fffafa;
+font-family:helvetica  ;
+font-size: 20px;
+padding: 20px;
+text-align: center;
+}
+#menu li:hover{
+background: #ff4500;
+width:266px;
+}
+
+
+}
+h1{
+font-family: helvetica;
+color:#8fbc8f
+}
